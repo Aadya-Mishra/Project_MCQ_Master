@@ -96,7 +96,7 @@ Install my-project with npm
 
 ```bash
   cd backend
-  npm start
+  npm run dev
 ```
 
 3. Start the front end server:
