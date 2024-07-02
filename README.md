@@ -6,18 +6,20 @@ At MCQ MASTER, we provide a comprehensive platform for mastering multiple choice
 ## Authors
 - Aditya Verma:
     - Email: vermaaditya1110@gmail.com
+    - College:Dr. Virendra Swaroop Institute Of Computer Studies
     - Class Roll No: 53
-    - University Roll No: 22015002403
+   
 
 - Ahmed Faraz:
     - Email: ahmedfaraz1117@gmail.com
+    - College:Dr. Virendra Swaroop Institute Of Computer Studies
     - Class Roll No: 54
-    - University Roll No: 22015002404
+    
 
 - Aadya Mishra: 
     - Email: aadyamishra38@gmail.com
-    - Class Roll No: 02
-    - University Roll No: 22015002352
+    - College:Dr. Virendra Swaroop Institute Of Computer Studies
+    - Class Roll No: 02- University Roll No: 22015002352
 
 
 
