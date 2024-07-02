@@ -19,7 +19,7 @@ At MCQ MASTER, we provide a comprehensive platform for mastering multiple choice
 - Aadya Mishra: 
     - Email: aadyamishra38@gmail.com
     - College:Dr. Virendra Swaroop Institute Of Computer Studies
-    - Class Roll No: 02- University Roll No: 22015002352
+    
 
 
 
